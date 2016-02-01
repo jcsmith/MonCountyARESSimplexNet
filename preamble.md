@@ -8,7 +8,7 @@ Calling the Monongalia county ARES Simplex Net.
 
 This net meets on the first Monday of every Month at 8:30 PM local time for the purpose of training on net procedures, testing of equipment, sharing of information between local ham operators, passing traffic in the regional area, and determining which operators are capable of contacting one another with out the aid of the repeater.
 
-This net is held on a frequency of 154.550 MHz and is a traffic and training net affiliated with the ARRL National Traffic System with liaison to the West Virginia Phone Net.
+This net is held on a frequency of 146.550 MHz and is a traffic and training net affiliated with the ARRL National Traffic System with liaison to the West Virginia Phone Net.
 
 This is a directed net with all activity going through the net control station.  Your net control station for this session of the net is (YOUR CALL SIGN),(YOUR CALL SIGN PHONETICALLY).
 
